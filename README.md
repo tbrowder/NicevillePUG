@@ -1,1 +1,1 @@
-# NicevillePUG
+# Niceville (Florida) Python User Group (NPUG)
